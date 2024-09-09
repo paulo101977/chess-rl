@@ -1,0 +1,13 @@
+{
+  "name": "chess-environment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "jupyter lab",
+    "server": "\".\\mavsdk\\bin\\mavsdk_server_bin.exe -p 50051\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
